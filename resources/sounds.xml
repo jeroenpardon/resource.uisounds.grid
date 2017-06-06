@@ -31,9 +31,5 @@
 			<name>notification</name>
 			<activate>Notify.wav</activate>
 		</window>
-		<window>
-			<name>startup</name>
-			<activate>Startup.wav</activate>
-		</window>
 	</windows>
 </sounds>
