@@ -2,6 +2,10 @@
 <sounds>
   <actions>
     <action>
+      <window>
+    <name>startup</name>
+      <activate>Startup.wav</activate>
+    </window>
       <name>left</name>
       <file>cursor.wav</file>
     </action>
